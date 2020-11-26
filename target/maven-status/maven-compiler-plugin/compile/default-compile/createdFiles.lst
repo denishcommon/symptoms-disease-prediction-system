@@ -1,0 +1,8 @@
+com\diseasepred\app\PageController.class
+com\diseasepred\app\Algorithm\DecisionTree.class
+com\diseasepred\app\Algorithm\Data.class
+com\diseasepred\app\AppApplication.class
+com\diseasepred\app\Algorithm\Feature.class
+com\diseasepred\app\Algorithm\DataValue.class
+com\diseasepred\app\Algorithm\KeyValuePair.class
+com\diseasepred\app\ServletInitializer.class
